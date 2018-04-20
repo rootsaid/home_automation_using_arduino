@@ -7,8 +7,8 @@
 #include <SPI.h>
 #include <WiFi101.h>
 
-char ssid[] = "your_essid"; 
-char pass[] = "your_password";
+char ssid[] = "www.rootsaid.com";//Your WiFi Name 
+char pass[] = "RootSaid";//Your WiFi Password
 int keyIndex = 0;      
 int ledpin = 6;
 bool val = true;
